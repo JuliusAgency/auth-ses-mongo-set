@@ -1,9 +1,7 @@
 export {
   AuthConfig,
   BaseUser,
-  dBApi,
-  // TransportConfig,
   SessionConfig,
-  Token,
+  AuthSesSetSetupOptions,
   authSetSetup,
 } from './auth-setup';
